@@ -1,0 +1,9 @@
+fecha,inicio,fin,conduccion_efectiva_min,tareas_adicionales_min,recarga_electrica_min,cuidado_vehiculo_min,conduccion_no_efectiva_min,descansos_min,tiempo_total_app_min,imagen,duracion_sesion_min,tiempo_efectivo_min,sin_clasificar_min,total_recalculado_min,dif_vs_app_min,ultimo_viaje,jornada_anomala,dia_semana
+2026-09-28,06:15,12:26,314,0,43,10,11,0,424,IMG_7885,371,367,46,424,0,11:54,False,lunes
+2026-09-29,06:11,12:17,320,0,33,10,4,0,409,IMG_7884,366,363,42,409,0,11:22,False,martes
+2026-09-30,06:17,12:45,351,0,25,10,6,0,422,IMG_7883,388,386,31,423,1,11:20,False,miércoles
+2026-10-01,06:23,12:22,313,0,10,10,3,0,378,IMG_7882,359,333,43,379,1,11:01,False,jueves
+2026-10-02,06:30,18:06,302,0,37,10,5,0,742,IMG_7881,696,349,389,743,1,11:33,True,viernes
+2026-10-05,06:20,13:02,312,0,36,10,25,0,447,IMG_7880,402,358,65,448,1,12:43,False,lunes
+2026-10-06,06:22,13:04,295,0,55,10,0,0,466,IMG_7879,402,360,107,467,1,11:02,False,martes
+2026-10-07,06:21,12:28,306,0,45,10,0,0,422,IMG_7877,367,361,61,422,0,10:37,False,miércoles

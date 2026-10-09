@@ -1,0 +1,33 @@
+paso,accion,detalle,motivo,filas_afectadas
+2-correcciones,eliminar,"IMG_7836 'Lunes, 12:33'",Fila cortada en el borde inferior; el viaje aparece completo en IMG_7837,1
+2-correcciones,eliminar,"IMG_7838 '02 de Octubre, 08:44'",Fila cortada (tipo de servicio no visible); aparece completa en IMG_7839,1
+2-correcciones,eliminar,IMG_7840 '30 de Sentiemhre 07•58',Fila cortada en el borde; aparece completa en IMG_7841,1
+2-correcciones,añadir,IMG_7840 '(fila superior cortada)',"Fila parcialmente visible arriba: fecha 01/10, hora cortada (entre 07:33 y 08:33, se lee 08:0?) -> se registra 08:00 aproximada. No aparece en IMG_7839. Confirmado por el total diario de la app (87,33 €)",1
+2-correcciones,eliminar,"IMG_7841 '29 de Septiembre, 09:53'",Fila cortada; aparece completa en IMG_7842,1
+2-correcciones,corregir,"IMG_7842 '28 de Septiembre, 11:54': {'fecha': '2026-09-28', 'hora': '11:54', 'producto': nan, 'importe_eur': nan} -> 2026-09-28 11:54 VTC Prioritario 6.0 €",Fila cortada abajo; tipo e importe leídos en IMG_7843 (fila superior),1
+2-correcciones,añadir,IMG_7843 '(fila tapada por el dedo)',"Dedo tapa el día y el tipo de servicio; se lee '...tiembre, 11:36' y 6,55 €. Por posición en la lista es del 28/09",1
+2-correcciones,corregir,"IMG_7843 '28 de Septiembre, 09:45': {'fecha': '2026-09-28', 'hora': '09:45', 'producto': nan, 'importe_eur': 10.32} -> 2026-09-28 09:45 VTC Airport 10.32 €",Foto movida: corregido a mano (OCR no leyó el tipo de servicio),1
+2-correcciones,corregir,"IMG_7843 '28 de Septiembre, 09:14': {'fecha': '2026-09-28', 'hora': '09:14', 'producto': nan, 'importe_eur': 7.46} -> 2026-09-28 09:14 VTC Airport 7.46 €",Foto movida: corregido a mano,1
+2-correcciones,corregir,"IMG_7843 '28 de Septiembre, 0B:47': {'fecha': '2026-09-28', 'hora': '08:47', 'producto': 'VTC', 'importe_eur': 33.13} -> 2026-09-28 08:17 VTC 33.13 €","Foto movida: el OCR leyó 0B:47; en el recorte ampliado se lee 08:17 (dudoso, podría ser 08:47)",1
+2-correcciones,corregir,"IMG_7843 '28 de Septiembre, 06:50': {'fecha': '2026-09-28', 'hora': '06:50', 'producto': nan, 'importe_eur': nan} -> 2026-09-28 06:50 VTC 18.38 €","Foto movida: el OCR leyó 18,98; en el recorte se lee 18,38. Confirmado con el total mensual de septiembre",1
+2-correcciones,corregir,"IMG_7843 '28 de Septiembre, 0é:29': {'fecha': '2026-09-28', 'hora': '06:29', 'producto': 'VTC', 'importe_eur': 8.92} -> 2026-09-28 06:29 VTC 8.92 €",Foto movida: hora corregida a mano,1
+2-correcciones,corregir,"IMG_7843 '24 de Septiembre, 44:02': {'fecha': '2026-09-24', 'hora': nan, 'producto': 'VTC', 'importe_eur': 8.91} -> 2026-09-24 11:02 VTC 8.51 €","Foto movida: el OCR leyó 44:02 y 8,91; en el recorte se lee 11:02 y 8,51. Confirmado con el total mensual de septiembre",1
+2-correcciones,corregir,"IMG_7843 '24 de Septiembre, 1057': {'fecha': '2026-09-24', 'hora': '10:57', 'producto': 'VTC', 'importe_eur': nan} -> 2026-09-24 10:57 VTC 0.0 €",Foto movida: importe 0 € leído a mano,1
+2-correcciones,corregir,"IMG_7843 '24 de Septiembre, 10119': {'fecha': '2026-09-24', 'hora': '10:11', 'producto': 'VTC', 'importe_eur': 18.27} -> 2026-09-24 10:19 VTC 13.27 €","Foto movida: el OCR leyó 10119 y 18,27; en el recorte se lee 10:19 y 13,27. Confirmado con el total mensual de septiembre",1
+2-correcciones,corregir,"IMG_7850 '14 de Septiembre, 11:46': {'fecha': '2026-09-14', 'hora': '11:46', 'producto': nan, 'importe_eur': 6.0} -> 2026-09-14 11:46 VTC 6.0 €",OCR no leyó el tipo de servicio (foto movida); se lee VTC,1
+2-correcciones,eliminar,"IMG_7850 '14 de Septiembre, 09:17'",Fila cortada; aparece completa en IMG_7851,1
+2-correcciones,corregir,"IMG_7851 '4 de Septiembre, 09:17': {'fecha': '2026-09-04', 'hora': '09:17', 'producto': 'VTC', 'importe_eur': nan} -> 2026-09-14 09:17 VTC 0.0 €","El OCR perdió el '1' de 14 y no leyó el importe; en la foto: 14/09 09:17, 0 €",1
+2-correcciones,eliminar,IMG_7851 '11 de Septiembre. 08:51',Fila cortada; aparece completa en IMG_7852,1
+2-correcciones,eliminar,"IMG_7852 '10 de Septiembre, 09:06'",Fila cortada; aparece completa en IMG_7853,1
+2-correcciones,eliminar,"IMG_7854 '08 de Septiembre, 08:05'",Fila cortada; aparece completa en IMG_7855,1
+2-correcciones,eliminar,"IMG_7856 '07 de Septiembre, 07-10'",Importe no leído por el OCR; el viaje aparece completo en IMG_7855,1
+2-correcciones,eliminar,"IMG_7858 '01 de Septiembre, 08:10'",Fila cortada; aparece completa en IMG_7859,1
+2-correcciones,eliminar,"IMG_7857 '02 de Septiembre, 08:55'","Fila cortada abajo: el OCR leyó el tipo como VTC (es VTC Eco) y se duplicaba. Detectado porque septiembre no cuadraba con el total de la app (+12,18 €). Aparece completa en IMG_7858",1
+3-duplicados,eliminar,Viajes repetidos por el solape entre fotos consecutivas,"Mismo viaje (fecha, hora, tipo, importe) visto en 2 fotos",24
+4-pago,añadir columna,metodo_pago (app/efectivo) según el icono de cada fila,Anotado a mano: el OCR no lee iconos,212
+5-tipos,convertir,fecha+hora -> datetime con zona Europe/Madrid; importe -> float,"Para poder ordenar, agrupar por hora/día y calcular",212
+6-derivadas,añadir columnas,"mes, semana_iso, dia_semana, hora_del_dia, franja_horaria, sin_ingreso, importe_6_exactos, es_aeropuerto, dia_completo, hora_aproximada, min_hasta_siguiente",Necesarias para agrupar por día/franja y estudiar esperas,212
+6-derivadas,marcar,31/08: dia_completo = False,Solo se capturaron viajes desde las 21:23,8
+7-atipicos,marcar (no borrar),"atipico_iqr = importe fuera de [-5.20, 28.56] €",Viajes reales verificados en las fotos: se conservan,6
+9-jornadas,marcar,"02/10: jornada_anomala = True (sesión 6:30–18:06, último viaje 11:33)",Probable jornada no cerrada; se excluye del €/hora principal,1
+10-guardar,exportar,"viajes_limpios, jornadas_limpias, resumen_diario, resumen_app",Salida del cuaderno,212

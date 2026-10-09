@@ -1,0 +1,25 @@
+imagen,texto_fecha,accion,fecha,hora,producto,importe_eur,motivo
+IMG_7836,"Lunes, 12:33",eliminar,,,,,Fila cortada en el borde inferior; el viaje aparece completo en IMG_7837
+IMG_7838,"02 de Octubre, 08:44",eliminar,,,,,Fila cortada (tipo de servicio no visible); aparece completa en IMG_7839
+IMG_7840,30 de Sentiemhre 07•58,eliminar,,,,,Fila cortada en el borde; aparece completa en IMG_7841
+IMG_7840,(fila superior cortada),añadir,2026-10-01,08:00,VTC Prioritario,11.56,"Fila parcialmente visible arriba: fecha 01/10, hora cortada (entre 07:33 y 08:33, se lee 08:0?) -> se registra 08:00 aproximada. No aparece en IMG_7839. Confirmado por el total diario de la app (87,33 €)"
+IMG_7841,"29 de Septiembre, 09:53",eliminar,,,,,Fila cortada; aparece completa en IMG_7842
+IMG_7842,"28 de Septiembre, 11:54",corregir,2026-09-28,11:54,VTC Prioritario,6.0,Fila cortada abajo; tipo e importe leídos en IMG_7843 (fila superior)
+IMG_7843,(fila tapada por el dedo),añadir,2026-09-28,11:36,Desconocido,6.55,"Dedo tapa el día y el tipo de servicio; se lee '...tiembre, 11:36' y 6,55 €. Por posición en la lista es del 28/09"
+IMG_7843,"28 de Septiembre, 09:45",corregir,2026-09-28,09:45,VTC Airport,10.32,Foto movida: corregido a mano (OCR no leyó el tipo de servicio)
+IMG_7843,"28 de Septiembre, 09:14",corregir,2026-09-28,09:14,VTC Airport,7.46,Foto movida: corregido a mano
+IMG_7843,"28 de Septiembre, 0B:47",corregir,2026-09-28,08:17,VTC,33.13,"Foto movida: el OCR leyó 0B:47; en el recorte ampliado se lee 08:17 (dudoso, podría ser 08:47)"
+IMG_7843,"28 de Septiembre, 06:50",corregir,2026-09-28,06:50,VTC,18.38,"Foto movida: el OCR leyó 18,98; en el recorte se lee 18,38. Confirmado con el total mensual de septiembre"
+IMG_7843,"28 de Septiembre, 0é:29",corregir,2026-09-28,06:29,VTC,8.92,Foto movida: hora corregida a mano
+IMG_7843,"24 de Septiembre, 44:02",corregir,2026-09-24,11:02,VTC,8.51,"Foto movida: el OCR leyó 44:02 y 8,91; en el recorte se lee 11:02 y 8,51. Confirmado con el total mensual de septiembre"
+IMG_7843,"24 de Septiembre, 1057",corregir,2026-09-24,10:57,VTC,0.0,Foto movida: importe 0 € leído a mano
+IMG_7843,"24 de Septiembre, 10119",corregir,2026-09-24,10:19,VTC,13.27,"Foto movida: el OCR leyó 10119 y 18,27; en el recorte se lee 10:19 y 13,27. Confirmado con el total mensual de septiembre"
+IMG_7850,"14 de Septiembre, 11:46",corregir,2026-09-14,11:46,VTC,6.0,OCR no leyó el tipo de servicio (foto movida); se lee VTC
+IMG_7850,"14 de Septiembre, 09:17",eliminar,,,,,Fila cortada; aparece completa en IMG_7851
+IMG_7851,"4 de Septiembre, 09:17",corregir,2026-09-14,09:17,VTC,0.0,"El OCR perdió el '1' de 14 y no leyó el importe; en la foto: 14/09 09:17, 0 €"
+IMG_7851,"11 de Septiembre. 08:51",eliminar,,,,,Fila cortada; aparece completa en IMG_7852
+IMG_7852,"10 de Septiembre, 09:06",eliminar,,,,,Fila cortada; aparece completa en IMG_7853
+IMG_7854,"08 de Septiembre, 08:05",eliminar,,,,,Fila cortada; aparece completa en IMG_7855
+IMG_7856,"07 de Septiembre, 07-10",eliminar,,,,,Importe no leído por el OCR; el viaje aparece completo en IMG_7855
+IMG_7858,"01 de Septiembre, 08:10",eliminar,,,,,Fila cortada; aparece completa en IMG_7859
+IMG_7857,"02 de Septiembre, 08:55",eliminar,,,,,"Fila cortada abajo: el OCR leyó el tipo como VTC (es VTC Eco) y se duplicaba. Detectado porque septiembre no cuadraba con el total de la app (+12,18 €). Aparece completa en IMG_7858"

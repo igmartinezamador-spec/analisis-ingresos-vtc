@@ -1,0 +1,44 @@
+fuente,concepto,periodo,valor,unidad,imagen,nota
+app_finanzas,ganancia_diaria,2026-09-30,115.13,EUR,IMG_7869,
+app_finanzas,ganancia_diaria,2026-10-01,87.33,EUR,IMG_7868,
+app_finanzas,ganancia_diaria,2026-10-02,74.17,EUR,IMG_7867,
+app_finanzas,ganancia_diaria,2026-10-04,3.00,EUR,IMG_7866,Domingo sin viajes: probablemente un incentivo
+app_finanzas,ganancia_diaria,2026-10-05,111.84,EUR,IMG_7865,
+app_finanzas,ganancia_diaria,2026-10-06,69.66,EUR,IMG_7864,
+app_finanzas,ganancia_diaria,2026-10-07,103.66,EUR,IMG_7863,
+app_finanzas,ganancia_semanal,2026-10-05/2026-10-11,285.16,EUR,IMG_7860,Semana en curso (lunes a miércoles)
+app_finanzas,ganancia_mensual,2026-09,1746.03,EUR,IMG_7862,
+app_finanzas,ganancia_mensual,2026-10,449.66,EUR,IMG_7861,Mes en curso (1 a 7 de octubre)
+app_finanzas,precio_base,2026-09,1534.77,EUR,IMG_7873,
+app_finanzas,extras_y_suplementos,2026-09,199.26,EUR,IMG_7873,
+app_finanzas,incentivos,2026-09,8.00,EUR,IMG_7873,
+app_finanzas,propinas,2026-09,4.00,EUR,IMG_7873,
+app_finanzas,precio_base,2026-10,372.34,EUR,IMG_7872,
+app_finanzas,extras_y_suplementos,2026-10,74.32,EUR,IMG_7872,
+app_finanzas,incentivos,2026-10,3.00,EUR,IMG_7872,
+app_finanzas,propinas,2026-10,0.00,EUR,IMG_7872,No aparece la línea de propinas en octubre
+app_finanzas,viajes_pago_app,2026-09,1620.42,EUR,IMG_7871,
+app_finanzas,viajes_efectivo,2026-09,122.61,EUR,IMG_7871,
+app_finanzas,peajes,2026-09,5.00,EUR,IMG_7871,
+app_finanzas,pagado_a_bordo,2026-09,171.33,EUR,IMG_7871,Significado no explicado en la app
+app_finanzas,viajes_pago_app,2026-10,394.87,EUR,IMG_7870,
+app_finanzas,viajes_efectivo,2026-10,57.79,EUR,IMG_7870,
+app_finanzas,peajes,2026-10,6.00,EUR,IMG_7870,
+app_finanzas,pagado_a_bordo,2026-10,81.00,EUR,IMG_7870,Significado no explicado en la app
+flota_turnos,tiempo_efectivo,2026-10,1764,min,IMG_7874,29 h 24 min (1 a 7 de octubre)
+flota_turnos,tiempo_total,2026-10,2457,min,IMG_7874,40 h 57 min (1 a 7 de octubre)
+flota_turnos,tiempo_efectivo,2026-10-05/2026-10-11,1081,min,IMG_7875,18 h 1 min
+flota_turnos,tiempo_total,2026-10-05/2026-10-11,1336,min,IMG_7875,22 h 16 min
+flota_turnos,tiempo_efectivo,2026-10-07,362,min,IMG_7876,6 h 2 min
+flota_turnos,tiempo_total,2026-10-07,422,min,IMG_7876,7 h 2 min
+app_perfil,valoracion_media_ult_100,2026-10-07,4.84,estrellas,IMG_7833,
+app_perfil,valoraciones_positivas_ult_100,2026-10-07,96,valoraciones,IMG_7833,Cara sonriente
+app_perfil,valoraciones_neutras_ult_100,2026-10-07,0,valoraciones,IMG_7833,
+app_perfil,valoraciones_negativas_ult_100,2026-10-07,4,valoraciones,IMG_7833,Cara enfadada
+app_perfil,tasa_finalizacion_ult_semana,2026-10-07,89.0,%,IMG_7834,
+app_perfil,viajes_totales_ult_semana,2026-10-07,38,viajes,IMG_7834,
+app_perfil,viajes_finalizados_ult_semana,2026-10-07,34,viajes,IMG_7834,
+app_perfil,cancelacion_forzosa_pasajero_ult_semana,2026-10-07,4,viajes,IMG_7834,
+app_perfil,finalizacion_indebida_ult_semana,2026-10-07,0,viajes,IMG_7834,
+app_perfil,viajes_historicos_perfil,2026-10-07,1109,viajes,IMG_7831,La pantalla de perfil público dice 1.116 (IMG_7832); no se sabe por qué difieren
+app_perfil,antiguedad,2026-10-07,5,meses,IMG_7832,

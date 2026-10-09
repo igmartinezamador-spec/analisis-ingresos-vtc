@@ -1,0 +1,213 @@
+id_viaje,fecha_hora,fecha,hora,mes,semana_iso,num_dia_semana,dia_semana,hora_del_dia,franja_horaria,producto,importe_eur,metodo_pago,sin_ingreso,importe_6_exactos,es_aeropuerto,dia_completo,hora_aproximada,atipico_iqr,min_hasta_siguiente,origen_dato,imagenes_origen
+V001,2026-08-31T21:23:00+0200,2026-08-31,21:23,2026-08,36,0,lunes,21,21:00-21:59,VTC,8.89,app,False,False,False,False,False,False,16.0,ocr,IMG_7859
+V002,2026-08-31T21:39:00+0200,2026-08-31,21:39,2026-08,36,0,lunes,21,21:00-21:59,VTC,8.15,app,False,False,False,False,False,False,20.0,ocr,IMG_7859
+V003,2026-08-31T21:59:00+0200,2026-08-31,21:59,2026-08,36,0,lunes,21,21:00-21:59,VTC Prioritario,16.6,app,False,False,False,False,False,False,18.0,ocr,IMG_7859
+V004,2026-08-31T22:17:00+0200,2026-08-31,22:17,2026-08,36,0,lunes,22,22:00-22:59,VTC,0.0,app,True,False,False,False,False,False,2.0,ocr,IMG_7859
+V005,2026-08-31T22:19:00+0200,2026-08-31,22:19,2026-08,36,0,lunes,22,22:00-22:59,VTC,15.85,app,False,False,False,False,False,False,26.0,ocr,IMG_7859
+V006,2026-08-31T22:45:00+0200,2026-08-31,22:45,2026-08,36,0,lunes,22,22:00-22:59,VTC Prioritario,10.71,app,False,False,False,False,False,False,28.0,ocr,IMG_7859
+V007,2026-08-31T23:13:00+0200,2026-08-31,23:13,2026-08,36,0,lunes,23,23:00-23:59,VTC Prioritario,8.04,app,False,False,False,False,False,False,13.0,ocr,IMG_7859
+V008,2026-08-31T23:26:00+0200,2026-08-31,23:26,2026-08,36,0,lunes,23,23:00-23:59,VTC Airport,16.03,app,False,False,True,False,False,False,,ocr,IMG_7859
+V009,2026-09-01T08:10:00+0200,2026-09-01,08:10,2026-09,36,1,martes,8,08:00-08:59,Electric,12.73,app,False,False,False,True,False,False,33.0,ocr,IMG_7859
+V010,2026-09-01T08:43:00+0200,2026-09-01,08:43,2026-09,36,1,martes,8,08:00-08:59,VTC Prioritario,16.91,app,False,False,False,True,False,False,35.0,ocr,IMG_7858;IMG_7859
+V011,2026-09-01T09:18:00+0200,2026-09-01,09:18,2026-09,36,1,martes,9,09:00-09:59,Envíos en coche,14.62,app,False,False,False,True,False,False,33.0,ocr,IMG_7858
+V012,2026-09-01T09:51:00+0200,2026-09-01,09:51,2026-09,36,1,martes,9,09:00-09:59,VTC,13.18,app,False,False,False,True,False,False,26.0,ocr,IMG_7858
+V013,2026-09-01T10:17:00+0200,2026-09-01,10:17,2026-09,36,1,martes,10,10:00-10:59,VTC,9.34,app,False,False,False,True,False,False,41.0,ocr,IMG_7858
+V014,2026-09-01T10:58:00+0200,2026-09-01,10:58,2026-09,36,1,martes,10,10:00-10:59,VTC,6.0,app,False,True,False,True,False,False,,ocr,IMG_7858
+V015,2026-09-02T08:24:00+0200,2026-09-02,08:24,2026-09,36,2,miércoles,8,08:00-08:59,VTC,15.63,app,False,False,False,True,False,False,31.0,ocr,IMG_7858
+V016,2026-09-02T08:55:00+0200,2026-09-02,08:55,2026-09,36,2,miércoles,8,08:00-08:59,VTC Eco,12.18,app,False,False,False,True,False,False,91.0,ocr,IMG_7858
+V017,2026-09-02T10:26:00+0200,2026-09-02,10:26,2026-09,36,2,miércoles,10,10:00-10:59,VTC,9.11,app,False,False,False,True,False,False,59.0,ocr,IMG_7857;IMG_7858
+V018,2026-09-02T11:25:00+0200,2026-09-02,11:25,2026-09,36,2,miércoles,11,11:00-11:59,VTC Airport,13.76,app,False,False,True,True,False,False,21.0,ocr,IMG_7857;IMG_7858
+V019,2026-09-02T11:46:00+0200,2026-09-02,11:46,2026-09,36,2,miércoles,11,11:00-11:59,VTC Airport,21.96,app,False,False,True,True,False,False,,ocr,IMG_7857
+V020,2026-09-03T06:24:00+0200,2026-09-03,06:24,2026-09,36,3,jueves,6,06:00-06:59,VTC,15.65,app,False,False,False,True,False,False,75.0,ocr,IMG_7857
+V021,2026-09-03T07:39:00+0200,2026-09-03,07:39,2026-09,36,3,jueves,7,07:00-07:59,VTC,19.65,app,False,False,False,True,False,False,60.0,ocr,IMG_7857
+V022,2026-09-03T08:39:00+0200,2026-09-03,08:39,2026-09,36,3,jueves,8,08:00-08:59,VTC,7.08,app,False,False,False,True,False,False,45.0,ocr,IMG_7857
+V023,2026-09-03T09:24:00+0200,2026-09-03,09:24,2026-09,36,3,jueves,9,09:00-09:59,VTC Eco,10.11,app,False,False,False,True,False,False,19.0,ocr,IMG_7857
+V024,2026-09-03T09:43:00+0200,2026-09-03,09:43,2026-09,36,3,jueves,9,09:00-09:59,VTC,17.29,app,False,False,False,True,False,False,32.0,ocr,IMG_7857
+V025,2026-09-03T10:15:00+0200,2026-09-03,10:15,2026-09,36,3,jueves,10,10:00-10:59,Electric,9.7,app,False,False,False,True,False,False,27.0,ocr,IMG_7856;IMG_7857
+V026,2026-09-03T10:42:00+0200,2026-09-03,10:42,2026-09,36,3,jueves,10,10:00-10:59,VTC,6.0,app,False,True,False,True,False,False,,ocr,IMG_7856
+V027,2026-09-04T07:07:00+0200,2026-09-04,07:07,2026-09,36,4,viernes,7,07:00-07:59,VTC,8.74,app,False,False,False,True,False,False,26.0,ocr,IMG_7856
+V028,2026-09-04T07:33:00+0200,2026-09-04,07:33,2026-09,36,4,viernes,7,07:00-07:59,VTC,7.66,app,False,False,False,True,False,False,26.0,ocr,IMG_7856
+V029,2026-09-04T07:59:00+0200,2026-09-04,07:59,2026-09,36,4,viernes,7,07:00-07:59,VTC,10.25,app,False,False,False,True,False,False,67.0,ocr,IMG_7856
+V030,2026-09-04T09:06:00+0200,2026-09-04,09:06,2026-09,36,4,viernes,9,09:00-09:59,VTC,12.84,app,False,False,False,True,False,False,107.0,ocr,IMG_7856
+V031,2026-09-04T10:53:00+0200,2026-09-04,10:53,2026-09,36,4,viernes,10,10:00-10:59,VTC,0.0,app,True,False,False,True,False,False,,ocr,IMG_7856
+V032,2026-09-07T06:19:00+0200,2026-09-07,06:19,2026-09,37,0,lunes,6,06:00-06:59,VTC,6.45,app,False,False,False,True,False,False,31.0,ocr,IMG_7856
+V033,2026-09-07T06:50:00+0200,2026-09-07,06:50,2026-09,37,0,lunes,6,06:00-06:59,VTC,6.33,app,False,False,False,True,False,False,20.0,ocr,IMG_7856
+V034,2026-09-07T07:10:00+0200,2026-09-07,07:10,2026-09,37,0,lunes,7,07:00-07:59,VTC,7.1,app,False,False,False,True,False,False,24.0,ocr,IMG_7855
+V035,2026-09-07T07:34:00+0200,2026-09-07,07:34,2026-09,37,0,lunes,7,07:00-07:59,VTC,14.89,app,False,False,False,True,False,False,41.0,ocr,IMG_7855
+V036,2026-09-07T08:15:00+0200,2026-09-07,08:15,2026-09,37,0,lunes,8,08:00-08:59,VTC,15.66,app,False,False,False,True,False,False,64.0,ocr,IMG_7855
+V037,2026-09-07T09:19:00+0200,2026-09-07,09:19,2026-09,37,0,lunes,9,09:00-09:59,VTC,14.49,app,False,False,False,True,False,False,33.0,ocr,IMG_7855
+V038,2026-09-07T09:52:00+0200,2026-09-07,09:52,2026-09,37,0,lunes,9,09:00-09:59,VTC,0.0,efectivo,True,False,False,True,False,False,2.0,ocr,IMG_7855
+V039,2026-09-07T09:54:00+0200,2026-09-07,09:54,2026-09,37,0,lunes,9,09:00-09:59,VTC,19.1,app,False,False,False,True,False,False,47.0,ocr,IMG_7855
+V040,2026-09-07T10:41:00+0200,2026-09-07,10:41,2026-09,37,0,lunes,10,10:00-10:59,VTC Prioritario,6.0,app,False,True,False,True,False,False,,ocr,IMG_7855
+V041,2026-09-08T07:11:00+0200,2026-09-08,07:11,2026-09,37,1,martes,7,07:00-07:59,VTC,10.37,efectivo,False,False,False,True,False,False,32.0,ocr,IMG_7855
+V042,2026-09-08T07:43:00+0200,2026-09-08,07:43,2026-09,37,1,martes,7,07:00-07:59,VTC,6.0,app,False,True,False,True,False,False,22.0,ocr,IMG_7855
+V043,2026-09-08T08:05:00+0200,2026-09-08,08:05,2026-09,37,1,martes,8,08:00-08:59,VTC,8.0,app,False,False,False,True,False,False,21.0,ocr,IMG_7855
+V044,2026-09-08T08:26:00+0200,2026-09-08,08:26,2026-09,37,1,martes,8,08:00-08:59,VTC,9.81,app,False,False,False,True,False,False,30.0,ocr,IMG_7854
+V045,2026-09-08T08:56:00+0200,2026-09-08,08:56,2026-09,37,1,martes,8,08:00-08:59,VTC,0.0,app,True,False,False,True,False,False,7.0,ocr,IMG_7854
+V046,2026-09-08T09:03:00+0200,2026-09-08,09:03,2026-09,37,1,martes,9,09:00-09:59,VTC Airport,0.0,app,True,False,True,True,False,False,2.0,ocr,IMG_7854
+V047,2026-09-08T09:05:00+0200,2026-09-08,09:05,2026-09,37,1,martes,9,09:00-09:59,VTC Prioritario,12.08,app,False,False,False,True,False,False,23.0,ocr,IMG_7854
+V048,2026-09-08T09:28:00+0200,2026-09-08,09:28,2026-09,37,1,martes,9,09:00-09:59,VTC Airport,17.36,app,False,False,True,True,False,False,65.0,ocr,IMG_7854
+V049,2026-09-08T10:33:00+0200,2026-09-08,10:33,2026-09,37,1,martes,10,10:00-10:59,VTC,14.88,app,False,False,False,True,False,False,82.0,ocr,IMG_7854
+V050,2026-09-08T11:55:00+0200,2026-09-08,11:55,2026-09,37,1,martes,11,11:00-11:59,VTC Eco,6.0,app,False,True,False,True,False,False,,ocr,IMG_7854
+V051,2026-09-09T07:33:00+0200,2026-09-09,07:33,2026-09,37,2,miércoles,7,07:00-07:59,VTC,7.97,app,False,False,False,True,False,False,26.0,ocr,IMG_7854
+V052,2026-09-09T07:59:00+0200,2026-09-09,07:59,2026-09,37,2,miércoles,7,07:00-07:59,Electric,0.0,app,True,False,False,True,False,False,2.0,ocr,IMG_7854
+V053,2026-09-09T08:01:00+0200,2026-09-09,08:01,2026-09,37,2,miércoles,8,08:00-08:59,VTC Eco,17.26,app,False,False,False,True,False,False,35.0,ocr,IMG_7853
+V054,2026-09-09T08:36:00+0200,2026-09-09,08:36,2026-09,37,2,miércoles,8,08:00-08:59,VTC Eco,9.57,app,False,False,False,True,False,False,18.0,ocr,IMG_7853
+V055,2026-09-09T08:54:00+0200,2026-09-09,08:54,2026-09,37,2,miércoles,8,08:00-08:59,VTC,26.43,app,False,False,False,True,False,False,47.0,ocr,IMG_7853
+V056,2026-09-09T09:41:00+0200,2026-09-09,09:41,2026-09,37,2,miércoles,9,09:00-09:59,VTC,6.27,app,False,False,False,True,False,False,32.0,ocr,IMG_7853
+V057,2026-09-09T10:13:00+0200,2026-09-09,10:13,2026-09,37,2,miércoles,10,10:00-10:59,VTC,28.95,app,False,False,False,True,False,True,91.0,ocr,IMG_7853
+V058,2026-09-09T11:44:00+0200,2026-09-09,11:44,2026-09,37,2,miércoles,11,11:00-11:59,VTC,8.01,app,False,False,False,True,False,False,71.0,ocr,IMG_7853
+V059,2026-09-09T12:55:00+0200,2026-09-09,12:55,2026-09,37,2,miércoles,12,12:00-12:59,VTC,8.6,efectivo,False,False,False,True,False,False,,ocr,IMG_7853
+V060,2026-09-10T07:52:00+0200,2026-09-10,07:52,2026-09,37,3,jueves,7,07:00-07:59,VTC,10.4,app,False,False,False,True,False,False,23.0,ocr,IMG_7853
+V061,2026-09-10T08:15:00+0200,2026-09-10,08:15,2026-09,37,3,jueves,8,08:00-08:59,VTC Eco,17.92,app,False,False,False,True,False,False,51.0,ocr,IMG_7853
+V062,2026-09-10T09:06:00+0200,2026-09-10,09:06,2026-09,37,3,jueves,9,09:00-09:59,VTC,7.52,efectivo,False,False,False,True,False,False,30.0,ocr,IMG_7853
+V063,2026-09-10T09:36:00+0200,2026-09-10,09:36,2026-09,37,3,jueves,9,09:00-09:59,VTC,7.75,app,False,False,False,True,False,False,57.0,ocr,IMG_7852
+V064,2026-09-10T10:33:00+0200,2026-09-10,10:33,2026-09,37,3,jueves,10,10:00-10:59,VTC,10.31,app,False,False,False,True,False,False,24.0,ocr,IMG_7852
+V065,2026-09-10T10:57:00+0200,2026-09-10,10:57,2026-09,37,3,jueves,10,10:00-10:59,VTC Eco,6.0,app,False,True,False,True,False,False,,ocr,IMG_7852
+V066,2026-09-11T06:25:00+0200,2026-09-11,06:25,2026-09,37,4,viernes,6,06:00-06:59,Electric,6.0,efectivo,False,True,False,True,False,False,25.0,ocr,IMG_7852
+V067,2026-09-11T06:50:00+0200,2026-09-11,06:50,2026-09,37,4,viernes,6,06:00-06:59,VTC Airport,25.23,app,False,False,True,True,False,False,58.0,ocr,IMG_7852
+V068,2026-09-11T07:48:00+0200,2026-09-11,07:48,2026-09,37,4,viernes,7,07:00-07:59,VTC,11.28,app,False,False,False,True,False,False,27.0,ocr,IMG_7852
+V069,2026-09-11T08:15:00+0200,2026-09-11,08:15,2026-09,37,4,viernes,8,08:00-08:59,VTC,32.83,app,False,False,False,True,False,True,36.0,ocr,IMG_7852
+V070,2026-09-11T08:51:00+0200,2026-09-11,08:51,2026-09,37,4,viernes,8,08:00-08:59,VTC Promo,16.98,app,False,False,False,True,False,False,115.0,ocr,IMG_7852
+V071,2026-09-11T10:46:00+0200,2026-09-11,10:46,2026-09,37,4,viernes,10,10:00-10:59,VTC,6.0,app,False,True,False,True,False,False,48.0,ocr,IMG_7851;IMG_7852
+V072,2026-09-11T11:34:00+0200,2026-09-11,11:34,2026-09,37,4,viernes,11,11:00-11:59,VTC,7.88,app,False,False,False,True,False,False,,ocr,IMG_7851
+V073,2026-09-14T06:36:00+0200,2026-09-14,06:36,2026-09,38,0,lunes,6,06:00-06:59,VTC Airport,15.9,app,False,False,True,True,False,False,76.0,ocr,IMG_7851
+V074,2026-09-14T07:52:00+0200,2026-09-14,07:52,2026-09,38,0,lunes,7,07:00-07:59,VTC,0.0,efectivo,True,False,False,True,False,False,2.0,ocr,IMG_7851
+V075,2026-09-14T07:54:00+0200,2026-09-14,07:54,2026-09,38,0,lunes,7,07:00-07:59,VTC,22.83,efectivo,False,False,False,True,False,False,43.0,ocr,IMG_7851
+V076,2026-09-14T08:37:00+0200,2026-09-14,08:37,2026-09,38,0,lunes,8,08:00-08:59,VTC,17.17,efectivo,False,False,False,True,False,False,36.0,ocr,IMG_7851
+V077,2026-09-14T09:13:00+0200,2026-09-14,09:13,2026-09,38,0,lunes,9,09:00-09:59,VTC Eco,0.0,app,True,False,False,True,False,False,0.0,ocr,IMG_7851
+V078,2026-09-14T09:13:00+0200,2026-09-14,09:13,2026-09,38,0,lunes,9,09:00-09:59,VTC Eco,0.0,app,True,False,False,True,False,False,4.0,ocr,IMG_7851
+V079,2026-09-14T09:17:00+0200,2026-09-14,09:17,2026-09,38,0,lunes,9,09:00-09:59,VTC,0.0,app,True,False,False,True,False,False,23.0,ocr + corrección manual,IMG_7851
+V080,2026-09-14T09:40:00+0200,2026-09-14,09:40,2026-09,38,0,lunes,9,09:00-09:59,VTC,12.4,app,False,False,False,True,False,False,46.0,ocr,IMG_7850
+V081,2026-09-14T10:26:00+0200,2026-09-14,10:26,2026-09,38,0,lunes,10,10:00-10:59,VTC,6.0,app,False,True,False,True,False,False,12.0,ocr,IMG_7850
+V082,2026-09-14T10:38:00+0200,2026-09-14,10:38,2026-09,38,0,lunes,10,10:00-10:59,VTC,6.0,app,False,True,False,True,False,False,68.0,ocr,IMG_7850
+V083,2026-09-14T11:46:00+0200,2026-09-14,11:46,2026-09,38,0,lunes,11,11:00-11:59,VTC,6.0,app,False,True,False,True,False,False,13.0,ocr + corrección manual,IMG_7850
+V084,2026-09-14T11:59:00+0200,2026-09-14,11:59,2026-09,38,0,lunes,11,11:00-11:59,VTC,6.06,app,False,False,False,True,False,False,,ocr,IMG_7850
+V085,2026-09-15T07:24:00+0200,2026-09-15,07:24,2026-09,38,1,martes,7,07:00-07:59,VTC,6.41,app,False,False,False,True,False,False,21.0,ocr,IMG_7850
+V086,2026-09-15T07:45:00+0200,2026-09-15,07:45,2026-09,38,1,martes,7,07:00-07:59,VTC,8.91,app,False,False,False,True,False,False,24.0,ocr,IMG_7850
+V087,2026-09-15T08:09:00+0200,2026-09-15,08:09,2026-09,38,1,martes,8,08:00-08:59,VTC,3.35,app,False,False,False,True,False,False,3.0,ocr,IMG_7850
+V088,2026-09-15T08:12:00+0200,2026-09-15,08:12,2026-09,38,1,martes,8,08:00-08:59,VTC,27.38,app,False,False,False,True,False,False,56.0,ocr,IMG_7850
+V089,2026-09-15T09:08:00+0200,2026-09-15,09:08,2026-09,38,1,martes,9,09:00-09:59,VTC Eco,26.04,app,False,False,False,True,False,False,48.0,ocr,IMG_7849
+V090,2026-09-15T09:56:00+0200,2026-09-15,09:56,2026-09,38,1,martes,9,09:00-09:59,VTC,15.64,app,False,False,False,True,False,False,62.0,ocr,IMG_7849
+V091,2026-09-15T10:58:00+0200,2026-09-15,10:58,2026-09,38,1,martes,10,10:00-10:59,VTC Prioritario,6.02,app,False,False,False,True,False,False,73.0,ocr,IMG_7849
+V092,2026-09-15T12:11:00+0200,2026-09-15,12:11,2026-09,38,1,martes,12,12:00-12:59,VTC,6.0,app,False,True,False,True,False,False,,ocr,IMG_7849
+V093,2026-09-16T06:50:00+0200,2026-09-16,06:50,2026-09,38,2,miércoles,6,06:00-06:59,VTC,10.54,efectivo,False,False,False,True,False,False,29.0,ocr,IMG_7849
+V094,2026-09-16T07:19:00+0200,2026-09-16,07:19,2026-09,38,2,miércoles,7,07:00-07:59,VTC,13.96,app,False,False,False,True,False,False,69.0,ocr,IMG_7849
+V095,2026-09-16T08:28:00+0200,2026-09-16,08:28,2026-09,38,2,miércoles,8,08:00-08:59,VTC,11.78,efectivo,False,False,False,True,False,False,15.0,ocr,IMG_7849
+V096,2026-09-16T08:43:00+0200,2026-09-16,08:43,2026-09,38,2,miércoles,8,08:00-08:59,VTC,7.59,app,False,False,False,True,False,False,21.0,ocr,IMG_7849
+V097,2026-09-16T09:04:00+0200,2026-09-16,09:04,2026-09,38,2,miércoles,9,09:00-09:59,VTC,6.24,app,False,False,False,True,False,False,15.0,ocr,IMG_7849
+V098,2026-09-16T09:19:00+0200,2026-09-16,09:19,2026-09,38,2,miércoles,9,09:00-09:59,VTC,6.0,app,False,True,False,True,False,False,24.0,ocr,IMG_7849
+V099,2026-09-16T09:43:00+0200,2026-09-16,09:43,2026-09,38,2,miércoles,9,09:00-09:59,VTC,6.0,efectivo,False,True,False,True,False,False,30.0,ocr,IMG_7848
+V100,2026-09-16T10:13:00+0200,2026-09-16,10:13,2026-09,38,2,miércoles,10,10:00-10:59,VTC Prioritario,0.0,app,True,False,False,True,False,False,16.0,ocr,IMG_7848
+V101,2026-09-16T10:29:00+0200,2026-09-16,10:29,2026-09,38,2,miércoles,10,10:00-10:59,VTC Prioritario,6.0,app,False,True,False,True,False,False,22.0,ocr,IMG_7848
+V102,2026-09-16T10:51:00+0200,2026-09-16,10:51,2026-09,38,2,miércoles,10,10:00-10:59,VTC,6.0,efectivo,False,True,False,True,False,False,,ocr,IMG_7848
+V103,2026-09-17T07:11:00+0200,2026-09-17,07:11,2026-09,38,3,jueves,7,07:00-07:59,VTC Airport,12.21,app,False,False,True,True,False,False,34.0,ocr,IMG_7848
+V104,2026-09-17T07:45:00+0200,2026-09-17,07:45,2026-09,38,3,jueves,7,07:00-07:59,VTC,11.41,app,False,False,False,True,False,False,29.0,ocr,IMG_7848
+V105,2026-09-17T08:14:00+0200,2026-09-17,08:14,2026-09,38,3,jueves,8,08:00-08:59,VTC,11.21,app,False,False,False,True,False,False,41.0,ocr,IMG_7848
+V106,2026-09-17T08:55:00+0200,2026-09-17,08:55,2026-09,38,3,jueves,8,08:00-08:59,VTC,0.0,app,True,False,False,True,False,False,40.0,ocr,IMG_7848
+V107,2026-09-17T09:35:00+0200,2026-09-17,09:35,2026-09,38,3,jueves,9,09:00-09:59,VTC,19.06,app,False,False,False,True,False,False,55.0,ocr,IMG_7848
+V108,2026-09-17T10:30:00+0200,2026-09-17,10:30,2026-09,38,3,jueves,10,10:00-10:59,VTC,12.32,app,False,False,False,True,False,False,,ocr,IMG_7847
+V109,2026-09-18T06:33:00+0200,2026-09-18,06:33,2026-09,38,4,viernes,6,06:00-06:59,VTC Eco,0.0,app,True,False,False,True,False,False,5.0,ocr,IMG_7847
+V110,2026-09-18T06:38:00+0200,2026-09-18,06:38,2026-09,38,4,viernes,6,06:00-06:59,VTC,10.28,app,False,False,False,True,False,False,61.0,ocr,IMG_7847
+V111,2026-09-18T07:39:00+0200,2026-09-18,07:39,2026-09,38,4,viernes,7,07:00-07:59,VTC,8.0,app,False,False,False,True,False,False,29.0,ocr,IMG_7847
+V112,2026-09-18T08:08:00+0200,2026-09-18,08:08,2026-09,38,4,viernes,8,08:00-08:59,VTC Eco,0.0,app,True,False,False,True,False,False,15.0,ocr,IMG_7847
+V113,2026-09-18T08:23:00+0200,2026-09-18,08:23,2026-09,38,4,viernes,8,08:00-08:59,VTC,14.85,app,False,False,False,True,False,False,35.0,ocr,IMG_7847
+V114,2026-09-18T08:58:00+0200,2026-09-18,08:58,2026-09,38,4,viernes,8,08:00-08:59,VTC,17.88,app,False,False,False,True,False,False,105.0,ocr,IMG_7847
+V115,2026-09-18T10:43:00+0200,2026-09-18,10:43,2026-09,38,4,viernes,10,10:00-10:59,VTC Prioritario,19.51,app,False,False,False,True,False,False,47.0,ocr,IMG_7847
+V116,2026-09-18T11:30:00+0200,2026-09-18,11:30,2026-09,38,4,viernes,11,11:00-11:59,VTC,6.66,app,False,False,False,True,False,False,31.0,ocr,IMG_7847
+V117,2026-09-18T12:01:00+0200,2026-09-18,12:01,2026-09,38,4,viernes,12,12:00-12:59,VTC,6.0,app,False,True,False,True,False,False,,ocr,IMG_7846;IMG_7847
+V118,2026-09-21T06:33:00+0200,2026-09-21,06:33,2026-09,39,0,lunes,6,06:00-06:59,VTC Airport,15.95,app,False,False,True,True,False,False,29.0,ocr,IMG_7846
+V119,2026-09-21T07:02:00+0200,2026-09-21,07:02,2026-09,39,0,lunes,7,07:00-07:59,VTC,9.53,app,False,False,False,True,False,False,36.0,ocr,IMG_7846
+V120,2026-09-21T07:38:00+0200,2026-09-21,07:38,2026-09,39,0,lunes,7,07:00-07:59,VTC Prioritario,0.0,app,True,False,False,True,False,False,7.0,ocr,IMG_7846
+V121,2026-09-21T07:45:00+0200,2026-09-21,07:45,2026-09,39,0,lunes,7,07:00-07:59,VTC,16.82,app,False,False,False,True,False,False,79.0,ocr,IMG_7846
+V122,2026-09-21T09:04:00+0200,2026-09-21,09:04,2026-09,39,0,lunes,9,09:00-09:59,VTC,23.61,app,False,False,False,True,False,False,76.0,ocr,IMG_7846
+V123,2026-09-21T10:20:00+0200,2026-09-21,10:20,2026-09,39,0,lunes,10,10:00-10:59,VTC,0.0,app,True,False,False,True,False,False,70.0,ocr,IMG_7846
+V124,2026-09-21T11:30:00+0200,2026-09-21,11:30,2026-09,39,0,lunes,11,11:00-11:59,VTC,7.0,app,False,False,False,True,False,False,45.0,ocr,IMG_7846
+V125,2026-09-21T12:15:00+0200,2026-09-21,12:15,2026-09,39,0,lunes,12,12:00-12:59,VTC,0.0,app,True,False,False,True,False,False,,ocr,IMG_7846
+V126,2026-09-22T07:18:00+0200,2026-09-22,07:18,2026-09,39,1,martes,7,07:00-07:59,VTC Promo,16.44,app,False,False,False,True,False,False,27.0,ocr,IMG_7845;IMG_7846
+V127,2026-09-22T07:45:00+0200,2026-09-22,07:45,2026-09,39,1,martes,7,07:00-07:59,VTC,0.0,app,True,False,False,True,False,False,1.0,ocr,IMG_7845
+V128,2026-09-22T07:46:00+0200,2026-09-22,07:46,2026-09,39,1,martes,7,07:00-07:59,VTC,18.64,app,False,False,False,True,False,False,86.0,ocr,IMG_7845
+V129,2026-09-22T09:12:00+0200,2026-09-22,09:12,2026-09,39,1,martes,9,09:00-09:59,Electric,18.63,app,False,False,False,True,False,False,48.0,ocr,IMG_7845
+V130,2026-09-22T10:00:00+0200,2026-09-22,10:00,2026-09,39,1,martes,10,10:00-10:59,VTC,17.37,app,False,False,False,True,False,False,44.0,ocr,IMG_7845
+V131,2026-09-22T10:44:00+0200,2026-09-22,10:44,2026-09,39,1,martes,10,10:00-10:59,VTC Eco,14.4,app,False,False,False,True,False,False,84.0,ocr,IMG_7845
+V132,2026-09-22T12:08:00+0200,2026-09-22,12:08,2026-09,39,1,martes,12,12:00-12:59,VTC,0.0,app,True,False,False,True,False,False,,ocr,IMG_7845
+V133,2026-09-23T07:40:00+0200,2026-09-23,07:40,2026-09,39,2,miércoles,7,07:00-07:59,VTC Eco,6.0,app,False,True,False,True,False,False,28.0,ocr,IMG_7845
+V134,2026-09-23T08:08:00+0200,2026-09-23,08:08,2026-09,39,2,miércoles,8,08:00-08:59,VTC Eco,19.06,app,False,False,False,True,False,False,36.0,ocr,IMG_7844;IMG_7845
+V135,2026-09-23T08:44:00+0200,2026-09-23,08:44,2026-09,39,2,miércoles,8,08:00-08:59,Electric,10.98,app,False,False,False,True,False,False,39.0,ocr,IMG_7844;IMG_7845
+V136,2026-09-23T09:23:00+0200,2026-09-23,09:23,2026-09,39,2,miércoles,9,09:00-09:59,VTC,38.95,app,False,False,False,True,False,True,53.0,ocr,IMG_7844
+V137,2026-09-23T10:16:00+0200,2026-09-23,10:16,2026-09,39,2,miércoles,10,10:00-10:59,VTC Prioritario,10.88,app,False,False,False,True,False,False,84.0,ocr,IMG_7844
+V138,2026-09-23T11:40:00+0200,2026-09-23,11:40,2026-09,39,2,miércoles,11,11:00-11:59,VTC,6.0,app,False,True,False,True,False,False,22.0,ocr,IMG_7844
+V139,2026-09-23T12:02:00+0200,2026-09-23,12:02,2026-09,39,2,miércoles,12,12:00-12:59,VTC,6.0,app,False,True,False,True,False,False,,ocr,IMG_7844
+V140,2026-09-24T07:22:00+0200,2026-09-24,07:22,2026-09,39,3,jueves,7,07:00-07:59,VTC,13.68,app,False,False,False,True,False,False,45.0,ocr,IMG_7844
+V141,2026-09-24T08:07:00+0200,2026-09-24,08:07,2026-09,39,3,jueves,8,08:00-08:59,VTC Promo,14.93,app,False,False,False,True,False,False,45.0,ocr,IMG_7844
+V142,2026-09-24T08:52:00+0200,2026-09-24,08:52,2026-09,39,3,jueves,8,08:00-08:59,VTC,15.17,app,False,False,False,True,False,False,65.0,ocr,IMG_7844
+V143,2026-09-24T09:57:00+0200,2026-09-24,09:57,2026-09,39,3,jueves,9,09:00-09:59,VTC,10.68,app,False,False,False,True,False,False,22.0,ocr,IMG_7844
+V144,2026-09-24T10:19:00+0200,2026-09-24,10:19,2026-09,39,3,jueves,10,10:00-10:59,VTC,13.27,app,False,False,False,True,False,False,38.0,ocr + corrección manual,IMG_7843
+V145,2026-09-24T10:57:00+0200,2026-09-24,10:57,2026-09,39,3,jueves,10,10:00-10:59,VTC,0.0,app,True,False,False,True,False,False,5.0,ocr + corrección manual,IMG_7843
+V146,2026-09-24T11:02:00+0200,2026-09-24,11:02,2026-09,39,3,jueves,11,11:00-11:59,VTC,8.51,app,False,False,False,True,False,False,,ocr + corrección manual,IMG_7843
+V147,2026-09-28T06:29:00+0200,2026-09-28,06:29,2026-09,40,0,lunes,6,06:00-06:59,VTC,8.92,app,False,False,False,True,False,False,21.0,ocr + corrección manual,IMG_7843
+V148,2026-09-28T06:50:00+0200,2026-09-28,06:50,2026-09,40,0,lunes,6,06:00-06:59,VTC,18.38,app,False,False,False,True,False,False,87.0,ocr + corrección manual,IMG_7843
+V149,2026-09-28T08:17:00+0200,2026-09-28,08:17,2026-09,40,0,lunes,8,08:00-08:59,VTC,33.13,app,False,False,False,True,False,True,57.0,ocr + corrección manual,IMG_7843
+V150,2026-09-28T09:14:00+0200,2026-09-28,09:14,2026-09,40,0,lunes,9,09:00-09:59,VTC Airport,7.46,app,False,False,True,True,False,False,31.0,ocr + corrección manual,IMG_7843
+V151,2026-09-28T09:45:00+0200,2026-09-28,09:45,2026-09,40,0,lunes,9,09:00-09:59,VTC Airport,10.32,app,False,False,True,True,False,False,111.0,ocr + corrección manual,IMG_7843
+V152,2026-09-28T11:36:00+0200,2026-09-28,11:36,2026-09,40,0,lunes,11,11:00-11:59,Desconocido,6.55,app,False,False,False,True,False,False,18.0,transcripción manual,IMG_7843
+V153,2026-09-28T11:54:00+0200,2026-09-28,11:54,2026-09,40,0,lunes,11,11:00-11:59,VTC Prioritario,6.0,app,False,True,False,True,False,False,,ocr + corrección manual,IMG_7842
+V154,2026-09-29T06:19:00+0200,2026-09-29,06:19,2026-09,40,1,martes,6,06:00-06:59,VTC,6.86,app,False,False,False,True,False,False,20.0,ocr,IMG_7842
+V155,2026-09-29T06:39:00+0200,2026-09-29,06:39,2026-09,40,1,martes,6,06:00-06:59,VTC Prioritario,8.22,app,False,False,False,True,False,False,38.0,ocr,IMG_7842
+V156,2026-09-29T07:17:00+0200,2026-09-29,07:17,2026-09,40,1,martes,7,07:00-07:59,VTC,0.0,app,True,False,False,True,False,False,12.0,ocr,IMG_7842
+V157,2026-09-29T07:29:00+0200,2026-09-29,07:29,2026-09,40,1,martes,7,07:00-07:59,VTC,8.52,app,False,False,False,True,False,False,78.0,ocr,IMG_7842
+V158,2026-09-29T08:47:00+0200,2026-09-29,08:47,2026-09,40,1,martes,8,08:00-08:59,VTC Eco,17.64,app,False,False,False,True,False,False,40.0,ocr,IMG_7842
+V159,2026-09-29T09:27:00+0200,2026-09-29,09:27,2026-09,40,1,martes,9,09:00-09:59,VTC Airport,12.5,app,False,False,True,True,False,False,26.0,ocr,IMG_7842
+V160,2026-09-29T09:53:00+0200,2026-09-29,09:53,2026-09,40,1,martes,9,09:00-09:59,VTC,13.22,app,False,False,False,True,False,False,89.0,ocr,IMG_7842
+V161,2026-09-29T11:22:00+0200,2026-09-29,11:22,2026-09,40,1,martes,11,11:00-11:59,VTC,6.0,app,False,True,False,True,False,False,,ocr,IMG_7841;IMG_7842
+V162,2026-09-30T06:49:00+0200,2026-09-30,06:49,2026-09,40,2,miércoles,6,06:00-06:59,VTC,7.89,app,False,False,False,True,False,False,23.0,ocr,IMG_7841;IMG_7842
+V163,2026-09-30T07:12:00+0200,2026-09-30,07:12,2026-09,40,2,miércoles,7,07:00-07:59,VTC Airport,17.81,app,False,False,True,True,False,False,46.0,ocr,IMG_7841
+V164,2026-09-30T07:58:00+0200,2026-09-30,07:58,2026-09,40,2,miércoles,7,07:00-07:59,VTC Airport,6.12,app,False,False,True,True,False,False,32.0,ocr,IMG_7841
+V165,2026-09-30T08:30:00+0200,2026-09-30,08:30,2026-09,40,2,miércoles,8,08:00-08:59,VTC Airport,45.12,app,False,False,True,True,False,True,66.0,ocr,IMG_7840;IMG_7841
+V166,2026-09-30T09:36:00+0200,2026-09-30,09:36,2026-09,40,2,miércoles,9,09:00-09:59,VTC Airport,14.39,app,False,False,True,True,False,False,42.0,ocr,IMG_7840;IMG_7841
+V167,2026-09-30T10:18:00+0200,2026-09-30,10:18,2026-09,40,2,miércoles,10,10:00-10:59,VTC,9.8,efectivo,False,False,False,True,False,False,37.0,ocr,IMG_7840;IMG_7841
+V168,2026-09-30T10:55:00+0200,2026-09-30,10:55,2026-09,40,2,miércoles,10,10:00-10:59,VTC,6.0,efectivo,False,True,False,True,False,False,25.0,ocr,IMG_7840;IMG_7841
+V169,2026-09-30T11:20:00+0200,2026-09-30,11:20,2026-09,40,2,miércoles,11,11:00-11:59,VTC Prioritario,0.0,app,True,False,False,True,False,False,,ocr,IMG_7840;IMG_7841
+V170,2026-10-01T06:49:00+0200,2026-10-01,06:49,2026-10,40,3,jueves,6,06:00-06:59,VTC,6.0,app,False,True,False,True,False,False,15.0,ocr,IMG_7840
+V171,2026-10-01T07:04:00+0200,2026-10-01,07:04,2026-10,40,3,jueves,7,07:00-07:59,VTC,6.0,app,False,True,False,True,False,False,22.0,ocr,IMG_7840
+V172,2026-10-01T07:26:00+0200,2026-10-01,07:26,2026-10,40,3,jueves,7,07:00-07:59,VTC,8.67,app,False,False,False,True,False,False,7.0,ocr,IMG_7840
+V173,2026-10-01T07:33:00+0200,2026-10-01,07:33,2026-10,40,3,jueves,7,07:00-07:59,Electric,12.87,app,False,False,False,True,False,False,27.0,ocr,IMG_7840
+V174,2026-10-01T08:00:00+0200,2026-10-01,08:00,2026-10,40,3,jueves,8,08:00-08:59,VTC Prioritario,11.56,app,False,False,False,True,True,False,33.0,transcripción manual,IMG_7840
+V175,2026-10-01T08:33:00+0200,2026-10-01,08:33,2026-10,40,3,jueves,8,08:00-08:59,VTC Prioritario,0.0,app,True,False,False,True,False,False,13.0,ocr,IMG_7839
+V176,2026-10-01T08:46:00+0200,2026-10-01,08:46,2026-10,40,3,jueves,8,08:00-08:59,VTC,0.0,app,True,False,False,True,False,False,22.0,ocr,IMG_7839
+V177,2026-10-01T09:08:00+0200,2026-10-01,09:08,2026-10,40,3,jueves,9,09:00-09:59,VTC Prioritario,10.98,app,False,False,False,True,False,False,35.0,ocr,IMG_7839
+V178,2026-10-01T09:43:00+0200,2026-10-01,09:43,2026-10,40,3,jueves,9,09:00-09:59,VTC Airport,14.54,app,False,False,True,True,False,False,49.0,ocr,IMG_7839
+V179,2026-10-01T10:32:00+0200,2026-10-01,10:32,2026-10,40,3,jueves,10,10:00-10:59,VTC Airport,10.63,efectivo,False,False,True,True,False,False,29.0,ocr,IMG_7839
+V180,2026-10-01T11:01:00+0200,2026-10-01,11:01,2026-10,40,3,jueves,11,11:00-11:59,VTC,7.08,efectivo,False,False,False,True,False,False,,ocr,IMG_7839
+V181,2026-10-02T07:31:00+0200,2026-10-02,07:31,2026-10,40,4,viernes,7,07:00-07:59,VTC,6.0,efectivo,False,True,False,True,False,False,19.0,ocr,IMG_7839
+V182,2026-10-02T07:50:00+0200,2026-10-02,07:50,2026-10,40,4,viernes,7,07:00-07:59,VTC Airport,20.82,app,False,False,True,True,False,False,54.0,ocr,IMG_7839
+V183,2026-10-02T08:44:00+0200,2026-10-02,08:44,2026-10,40,4,viernes,8,08:00-08:59,VTC,17.85,app,False,False,False,True,False,False,46.0,ocr,IMG_7839
+V184,2026-10-02T09:30:00+0200,2026-10-02,09:30,2026-10,40,4,viernes,9,09:00-09:59,VTC,0.0,app,True,False,False,True,False,False,11.0,ocr,IMG_7838;IMG_7839
+V185,2026-10-02T09:41:00+0200,2026-10-02,09:41,2026-10,40,4,viernes,9,09:00-09:59,VTC,0.0,app,True,False,False,True,False,False,4.0,ocr,IMG_7838
+V186,2026-10-02T09:45:00+0200,2026-10-02,09:45,2026-10,40,4,viernes,9,09:00-09:59,VTC Airport,17.72,app,False,False,True,True,False,False,108.0,ocr,IMG_7838
+V187,2026-10-02T11:33:00+0200,2026-10-02,11:33,2026-10,40,4,viernes,11,11:00-11:59,VTC,13.78,app,False,False,False,True,False,False,,ocr,IMG_7838
+V188,2026-10-05T06:20:00+0200,2026-10-05,06:20,2026-10,41,0,lunes,6,06:00-06:59,VTC,15.15,efectivo,False,False,False,True,False,False,22.0,ocr,IMG_7838
+V189,2026-10-05T06:42:00+0200,2026-10-05,06:42,2026-10,41,0,lunes,6,06:00-06:59,VTC Airport,18.93,efectivo,False,False,True,True,False,False,43.0,ocr,IMG_7838
+V190,2026-10-05T07:25:00+0200,2026-10-05,07:25,2026-10,41,0,lunes,7,07:00-07:59,VTC Airport,22.05,app,False,False,True,True,False,False,59.0,ocr,IMG_7838
+V191,2026-10-05T08:24:00+0200,2026-10-05,08:24,2026-10,41,0,lunes,8,08:00-08:59,VTC,15.78,app,False,False,False,True,False,False,63.0,ocr,IMG_7838
+V192,2026-10-05T09:27:00+0200,2026-10-05,09:27,2026-10,41,0,lunes,9,09:00-09:59,VTC Eco,14.7,app,False,False,False,True,False,False,45.0,ocr,IMG_7837;IMG_7838
+V193,2026-10-05T10:12:00+0200,2026-10-05,10:12,2026-10,41,0,lunes,10,10:00-10:59,VTC,0.0,app,True,False,False,True,False,False,17.0,ocr,IMG_7837
+V194,2026-10-05T10:29:00+0200,2026-10-05,10:29,2026-10,41,0,lunes,10,10:00-10:59,VTC Airport,15.39,app,False,False,True,True,False,False,36.0,ocr,IMG_7837
+V195,2026-10-05T11:05:00+0200,2026-10-05,11:05,2026-10,41,0,lunes,11,11:00-11:59,VTC,11.84,app,False,False,False,True,False,False,88.0,ocr,IMG_7837
+V196,2026-10-05T12:33:00+0200,2026-10-05,12:33,2026-10,41,0,lunes,12,12:00-12:59,VTC,0.0,efectivo,True,False,False,True,False,False,10.0,ocr,IMG_7837
+V197,2026-10-05T12:43:00+0200,2026-10-05,12:43,2026-10,41,0,lunes,12,12:00-12:59,VTC,0.0,app,True,False,False,True,False,False,,ocr,IMG_7836;IMG_7837
+V198,2026-10-06T06:27:00+0200,2026-10-06,06:27,2026-10,41,1,martes,6,06:00-06:59,VTC Prioritario,6.21,app,False,False,False,True,False,False,19.0,ocr,IMG_7836;IMG_7837
+V199,2026-10-06T06:46:00+0200,2026-10-06,06:46,2026-10,41,1,martes,6,06:00-06:59,VTC,8.16,app,False,False,False,True,False,False,20.0,ocr,IMG_7836;IMG_7837
+V200,2026-10-06T07:06:00+0200,2026-10-06,07:06,2026-10,41,1,martes,7,07:00-07:59,VTC,10.05,app,False,False,False,True,False,False,42.0,ocr,IMG_7836;IMG_7837
+V201,2026-10-06T07:48:00+0200,2026-10-06,07:48,2026-10,41,1,martes,7,07:00-07:59,VTC Airport,0.0,app,True,False,True,True,False,False,5.0,ocr,IMG_7836;IMG_7837
+V202,2026-10-06T07:53:00+0200,2026-10-06,07:53,2026-10,41,1,martes,7,07:00-07:59,VTC,8.73,app,False,False,False,True,False,False,32.0,ocr,IMG_7836
+V203,2026-10-06T08:25:00+0200,2026-10-06,08:25,2026-10,41,1,martes,8,08:00-08:59,VTC Airport,18.62,app,False,False,True,True,False,False,102.0,ocr,IMG_7836
+V204,2026-10-06T10:07:00+0200,2026-10-06,10:07,2026-10,41,1,martes,10,10:00-10:59,VTC,11.19,app,False,False,False,True,False,False,55.0,ocr,IMG_7836
+V205,2026-10-06T11:02:00+0200,2026-10-06,11:02,2026-10,41,1,martes,11,11:00-11:59,VTC,6.7,app,False,False,False,True,False,False,,ocr,IMG_7835;IMG_7836
+V206,2026-10-07T06:31:00+0200,2026-10-07,06:31,2026-10,41,2,miércoles,6,06:00-06:59,VTC Airport,0.0,app,True,False,True,True,False,False,12.0,ocr,IMG_7835
+V207,2026-10-07T06:43:00+0200,2026-10-07,06:43,2026-10,41,2,miércoles,6,06:00-06:59,VTC,6.0,app,False,True,False,True,False,False,13.0,ocr,IMG_7835
+V208,2026-10-07T06:56:00+0200,2026-10-07,06:56,2026-10,41,2,miércoles,6,06:00-06:59,VTC Airport,8.73,app,False,False,True,True,False,False,53.0,ocr,IMG_7835
+V209,2026-10-07T07:49:00+0200,2026-10-07,07:49,2026-10,41,2,miércoles,7,07:00-07:59,VTC Eco,18.46,app,False,False,False,True,False,False,57.0,ocr,IMG_7835
+V210,2026-10-07T08:46:00+0200,2026-10-07,08:46,2026-10,41,2,miércoles,8,08:00-08:59,VTC Airport,33.85,app,False,False,True,True,False,True,62.0,ocr,IMG_7835
+V211,2026-10-07T09:48:00+0200,2026-10-07,09:48,2026-10,41,2,miércoles,9,09:00-09:59,VTC Eco,14.25,app,False,False,False,True,False,False,49.0,ocr,IMG_7835
+V212,2026-10-07T10:37:00+0200,2026-10-07,10:37,2026-10,41,2,miércoles,10,10:00-10:59,VTC,23.37,app,False,False,False,True,False,False,,ocr,IMG_7835

@@ -1,0 +1,5 @@
+parametro,valor,explicacion
+porcentaje_que_te_queda,,"% de lo que muestra la app como ganancia que acaba en tu bolsillo antes de costes (tras comisión de la plataforma y reparto con la flota). Ej.: si cobras la mitad, escribe 50"
+costes_fijos_semana_eur,,"Alquiler/leasing del coche, cuota de la flota, seguro, autónomos... en € por semana (0 si no pagas nada)"
+energia_eur_por_hora,,"Coste de electricidad/combustible por hora trabajada (0 si lo paga la flota)"
+otros_costes_eur_por_hora,,"Otros costes por hora (limpieza, móvil, aparcamiento...). 0 si no hay"

@@ -1,0 +1,17 @@
+# --- Privacidad: los datos brutos NO se versionan ---
+# Fotos originales y sus conversiones: contienen nombre, foto de perfil y otros datos personales.
+datos/originales/
+datos/jpg/
+# Texto OCR bruto: incluye el nombre completo que aparece en la pantalla de perfil.
+datos/ocr_bruto/
+# Términos privados (tu nombre) para el escáner de privacidad de scripts/control_calidad.py
+datos/privado/
+
+# --- Sistema / Python ---
+.DS_Store
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+
+# Base de datos SQLite: se regenera con scripts/ejecutar_sql.py
+# (se versiona porque es pequeña y permite practicar SQL sin ejecutar nada)
