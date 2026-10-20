@@ -335,7 +335,7 @@ for nombre, hoja in ws_td.items():
 ws = ws_leeme
 lineas = [
     ("Análisis VTC · 1/09–7/10/2026", F(bold=True, size=14)),
-    ("Datos reales del conductor, anonimizados (sin pasajeros, matrículas ni direcciones).", F(italic=True)),
+    ("Datos reales de viajes, anonimizados (sin pasajeros, matrículas ni direcciones).", F(italic=True)),
     ("", F()),
     ("Hojas", F(bold=True, size=12)),
     ("Resumen: indicadores y tablas con fórmulas (SUMIFS, COUNTIFS, AVERAGEIFS) y 3 gráficos.", F()),

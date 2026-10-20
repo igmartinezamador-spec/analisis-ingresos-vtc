@@ -32,7 +32,7 @@ En este proyecto:
 
 ## 1. Empezar por las preguntas
 
-Antes de tocar un dato se escriben las **preguntas de negocio**: lo que una persona quiere decidir. «¿Qué cambiaría en mi horario para ganar más por hora?» es una buena pregunta porque lleva a una **decisión**.
+Antes de tocar un dato se escriben las **preguntas de negocio**: lo que una persona quiere decidir. «¿Qué cambiaría en el horario para ganar más por hora?» es una buena pregunta porque lleva a una **decisión**.
 
 Después se comprueba **cuáles se pueden responder** con los datos que hay. Aquí, 3 de las 7 no se podían responder del todo (neto, zonas, Uber). Decirlo claramente no es un fallo: es rigor.
 
@@ -133,7 +133,7 @@ Para el €/hora de 7 días hay dos opciones:
 - **Media de cocientes:** calcular el €/h de cada día y hacer la media.
 - **Cociente de sumas:** total de € ÷ total de horas.
 
-La correcta para «cuánto gano por hora» es la **segunda**: si un día trabajas 2 h y otro 8 h, no pueden pesar igual.
+La correcta para «cuánto se gana por hora» es la **segunda**: si un día trabajas 2 h y otro 8 h, no pueden pesar igual.
 
 ### 4.5 Comparar con igual base
 - Los **días de la semana** se comparan por **ingreso medio por día**, no por ingresos totales (hay 6 miércoles y solo 4 viernes).

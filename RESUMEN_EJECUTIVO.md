@@ -1,4 +1,4 @@
-# Resumen ejecutivo · ¿Cómo gano más por hora conduciendo en VTC?
+# Resumen ejecutivo · ¿Cómo se gana más por hora en VTC?
 
 **Datos:** 212 viajes reales de la plataforma (31/08–07/10/2026) y 8 jornadas con horas de la app de la flota, extraídos de 55 fotos de la pantalla y **validados al céntimo** con los totales de la app. Sin datos de Uber, de zonas ni de costes.
 

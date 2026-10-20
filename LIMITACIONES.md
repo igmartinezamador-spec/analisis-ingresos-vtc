@@ -47,7 +47,7 @@ Además, todo el periodo son **5 semanas de septiembre–octubre**: no recoge la
 
 ## 5. Cómo conseguir los datos que faltan
 
-1. **Solicitud RGPD a la plataforma** (derecho de acceso, art. 15, y de portabilidad, art. 20 del Reglamento General de Protección de Datos). Desde la app o el centro de ayuda, pide «una copia de todos mis datos personales como conductor en formato electrónico estructurado (CSV/JSON)»: historial completo con fechas, horas de inicio y fin, distancia, duración, zonas de origen y destino, importes y cancelaciones. Tienen 1 mes para responder (ampliable). Haz lo mismo con **Uber** si trabajas con ella («Descargar tus datos» en la web de conductores).
+1. **Solicitud RGPD a la plataforma** (derecho de acceso, art. 15, y de portabilidad, art. 20 del Reglamento General de Protección de Datos). Desde la app o el centro de ayuda, pide «una copia de todos los datos personales del conductor en formato electrónico estructurado (CSV/JSON)»: historial completo con fechas, horas de inicio y fin, distancia, duración, zonas de origen y destino, importes y cancelaciones. Tienen 1 mes para responder (ampliable). Haz lo mismo con **Uber** si trabajas con ella («Descargar tus datos» en la web de conductores).
 2. **App de la flota**: exporta o fotografía el «Detalle de jornada» de **todos** los días, no solo de 8.
 3. **Costes**: tu nómina o liquidación semanal de la flota (qué porcentaje te queda), recibos de alquiler o leasing y coste de las recargas. Rellena `parametros_costes.csv`.
 4. **Registro manual** (si no hay exportaciones): una hoja con una fila por jornada: fecha, hora de conexión y desconexión, ingresos del día, kWh o litros, coste, incidencias. Con 4–6 semanas ya mejora mucho el análisis.

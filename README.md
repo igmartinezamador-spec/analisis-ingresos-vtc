@@ -1,20 +1,20 @@
-# ¿Cuándo gano más conduciendo en VTC? — Análisis de mis datos reales como conductor VTC
+# ¿Cuándo se gana más por hora en VTC? — Análisis de datos reales de viajes
 
-Mi primer proyecto de **Data Analytics**: de 55 fotos de la pantalla del móvil a un análisis validado con Python, SQL, Excel y un dashboard.
+Proyecto de **Data Analytics**: de 55 fotos de la pantalla del móvil a un análisis validado con Python, SQL, Excel y un dashboard.
 
 ![Ingresos por día](graficos/01_ingresos_por_dia.png)
 
 ## El problema
 
-Soy conductor VTC en una empresa de flota. Quiero saber **cuánto gano por hora**, **qué horas y días rinden más**, **cuánto tiempo pierdo** y **qué cambiaría en mi horario** para ganar más por hora, con datos y no con intuiciones.
+Un servicio VTC de una empresa de flota quiere saber **cuánto se gana por hora**, **qué horas y días rinden más**, **cuánto tiempo se pierde** y **qué cambiaría en el horario** para ganar más por hora, con datos y no con intuiciones.
 
 ## Los datos
 
-- **Origen:** la app no permite exportar, así que fotografié la pantalla: historial de viajes (25 fotos), finanzas, perfil y jornadas de la app de la flota (55 fotos en total).
+- **Origen:** la app no permite exportar, así que se fotografió la pantalla: historial de viajes (25 fotos), finanzas, perfil y jornadas de la app de la flota (55 fotos en total).
 - **Extracción:** OCR local con el motor Vision de macOS (sin subir nada a internet) y **revisión manual de todas las fotos del historial**.
 - **Resultado:** **212 viajes** (31/08–07/10/2026) con fecha, hora, tipo de servicio, importe y método de pago, más **8 jornadas** con el desglose de horas.
 - **Validación:** la suma de los viajes coincide **al céntimo** con los totales de la app (septiembre y octubre, por pago en app y en efectivo).
-- **Privacidad:** no hay datos de pasajeros, matrículas ni direcciones. Las fotos originales y el texto OCR bruto (donde aparece mi nombre) **no se suben al repositorio** (ver `.gitignore`).
+- **Privacidad:** no hay datos de pasajeros, matrículas ni direcciones. Las fotos originales y el texto OCR bruto (donde aparecen datos personales) **no se suben al repositorio** (ver `.gitignore`).
 
 ## Método
 
@@ -30,7 +30,7 @@ fotos (HEIC) → JPG → OCR local → viajes candidatos (245 filas)
 
 | Pregunta | Respuesta | Fiabilidad |
 |---|---|---|
-| ¿Cuánto gano por hora? | **13,1 € brutos por hora de jornada** (IC 95 %: 11,2–14,7); 84 € por día de media | Media (7 jornadas con horas) |
+| ¿Cuánto se gana por hora? | **13,1 € brutos por hora de jornada** (IC 95 %: 11,2–14,7); 84 € por día de media | Media (7 jornadas con horas) |
 | ¿Qué franjas rinden más? | **08:00–08:59 (22 €/h)**; de 11:00 al cierre, solo **~3,9 €/h** | Buena para 7–10 h |
 | ¿Qué días? | Sin ganador claro: los intervalos de confianza se solapan | Débil (4–6 días por día) |
 | ¿Qué zonas? | No hay direcciones. Aproximación: los viajes de **aeropuerto** valen un **47 % más** | — |
@@ -64,7 +64,7 @@ Solo 5 semanas y solo 8 jornadas con horas; sin costes (el neto no se puede calc
 | `datos/intermedios/` | Transcripción: candidatos OCR, correcciones manuales, pagos en efectivo, jornadas, totales de la app |
 | `datos/limpios/` | Tablas limpias (CSV), registro de cambios y métricas clave |
 | `scripts/` | OCR, extracción, SQL, Excel, dashboard y control de calidad |
-| `parametros_costes.csv` | Plantilla para calcular tu neto |
+| `parametros_costes.csv` | Plantilla para calcular el neto |
 
 ## Cómo reproducirlo
 
